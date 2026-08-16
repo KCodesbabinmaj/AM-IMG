@@ -1,0 +1,5 @@
+build/amimg-test.exe
+build/amimg-smoke.exe
+build/setup-test.exe
+*.img
+*.img.gz
